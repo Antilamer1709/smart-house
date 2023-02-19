@@ -1,10 +1,10 @@
-package com.smarthouse.gateway;
+package com.smarthouse.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApplicationTests {
+class EurekaApplicationTests {
 
 	@Test
 	void contextLoads() {
